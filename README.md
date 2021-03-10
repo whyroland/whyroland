@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Roland 👋
 
 <!--
 **whyroland/whyroland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![whyroland's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyroland&show_icons=true&theme=dark&count_private=true) -->
+![whyroland's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyroland&show_icons=true&theme=dark&count_private=true)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyroland&theme=dark&layout=compact) -->
-
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=whyroland&show_icons=true&theme=dark&count_private=true" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyroland&theme=dark&layout=compact" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyroland&theme=dark&layout=compact)

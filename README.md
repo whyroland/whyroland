@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my profile!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whyroland&label=Profile%20views&color=0e75b6&style=flat" alt="whyroland" /> </p>
 
-- 🔭 I’m currently working on **An interactive course of studies web-app visualization for my school**
+- 🔭 I’m currently working on **An interactive course of studies web-app visualization**
 - 🌱 I’m currently learning **React, Dash/Plotly**
 - 👨‍💻 Some of my Hackathon projects are available at [https://devpost.com/rolandyang](https://devpost.com/rolandyang)
 - 📫 How to reach me **rolandyang@gmail.com or my Socials**
